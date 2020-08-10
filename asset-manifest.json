@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alexzhao/static/css/main.54b4ba8d.chunk.css",
+    "main.css": "/alexzhao/static/css/main.4603cf95.chunk.css",
     "main.js": "/alexzhao/static/js/main.4920fa3e.chunk.js",
     "main.js.map": "/alexzhao/static/js/main.4920fa3e.chunk.js.map",
     "runtime~main.js": "/alexzhao/static/js/runtime~main.e2fac960.js",
@@ -9,10 +9,10 @@
     "static/js/2.f0835aff.chunk.js": "/alexzhao/static/js/2.f0835aff.chunk.js",
     "static/js/2.f0835aff.chunk.js.map": "/alexzhao/static/js/2.f0835aff.chunk.js.map",
     "index.html": "/alexzhao/index.html",
-    "precache-manifest.620c9160702a3ef41cc137a2bf0969e6.js": "/alexzhao/precache-manifest.620c9160702a3ef41cc137a2bf0969e6.js",
+    "precache-manifest.22a317973443db6988bb371a250574c0.js": "/alexzhao/precache-manifest.22a317973443db6988bb371a250574c0.js",
     "service-worker.js": "/alexzhao/service-worker.js",
     "static/css/2.b961908c.chunk.css.map": "/alexzhao/static/css/2.b961908c.chunk.css.map",
-    "static/css/main.54b4ba8d.chunk.css.map": "/alexzhao/static/css/main.54b4ba8d.chunk.css.map",
+    "static/css/main.4603cf95.chunk.css.map": "/alexzhao/static/css/main.4603cf95.chunk.css.map",
     "static/media/Givhub.PNG": "/alexzhao/static/media/Givhub.e0087aed.PNG",
     "static/media/buddy.PNG": "/alexzhao/static/media/buddy.c05aa52c.PNG",
     "static/media/car.PNG": "/alexzhao/static/media/car.9350aa2c.PNG",
